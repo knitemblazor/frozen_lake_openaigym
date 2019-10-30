@@ -33,4 +33,5 @@ while(bool):
         if new_state==15:
             bool=False
             break
-print(counter)
+print("no.of attempts",counter)
+print("the winning sequence",winning_sequence)
